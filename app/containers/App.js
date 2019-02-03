@@ -104,7 +104,7 @@ class App extends Component {
     let theme;
     switch (this.props.currentTheme) {
     case 'light': {
-      theme = lightTheme;
+      theme = lightBlueTheme;
       break;
     }
     case 'dark': {
